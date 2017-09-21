@@ -1,3 +1,3 @@
-elb audit
+s3 audit
 ============================
-This composite monitors elb and reports best practice violations, standards body policy violations, and inventory
+This composite monitors s3 and reports best practice violations, standards body policy violations, and inventory

@@ -1,0 +1,4 @@
+[submodule "extends"]
+	path = extends
+	url = git@github.com:cloudCoreo/audit-aws-s3.git
+	branch = master
